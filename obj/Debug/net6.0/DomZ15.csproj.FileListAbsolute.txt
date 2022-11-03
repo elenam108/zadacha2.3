@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\ДЗ семинары\C#_DomZ\DomZ15\bin\Debug\net6.0\DomZ15.exe
+C:\Users\user\Desktop\ДЗ семинары\C#_DomZ\DomZ15\bin\Debug\net6.0\DomZ15.deps.json
+C:\Users\user\Desktop\ДЗ семинары\C#_DomZ\DomZ15\bin\Debug\net6.0\DomZ15.runtimeconfig.json
+C:\Users\user\Desktop\ДЗ семинары\C#_DomZ\DomZ15\bin\Debug\net6.0\DomZ15.dll
+C:\Users\user\Desktop\ДЗ семинары\C#_DomZ\DomZ15\bin\Debug\net6.0\DomZ15.pdb
+C:\Users\user\Desktop\ДЗ семинары\C#_DomZ\DomZ15\obj\Debug\net6.0\DomZ15.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ДЗ семинары\C#_DomZ\DomZ15\obj\Debug\net6.0\DomZ15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ДЗ семинары\C#_DomZ\DomZ15\obj\Debug\net6.0\DomZ15.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ДЗ семинары\C#_DomZ\DomZ15\obj\Debug\net6.0\DomZ15.AssemblyInfo.cs
+C:\Users\user\Desktop\ДЗ семинары\C#_DomZ\DomZ15\obj\Debug\net6.0\DomZ15.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ДЗ семинары\C#_DomZ\DomZ15\obj\Debug\net6.0\DomZ15.dll
+C:\Users\user\Desktop\ДЗ семинары\C#_DomZ\DomZ15\obj\Debug\net6.0\refint\DomZ15.dll
+C:\Users\user\Desktop\ДЗ семинары\C#_DomZ\DomZ15\obj\Debug\net6.0\DomZ15.pdb
+C:\Users\user\Desktop\ДЗ семинары\C#_DomZ\DomZ15\obj\Debug\net6.0\DomZ15.genruntimeconfig.cache
+C:\Users\user\Desktop\ДЗ семинары\C#_DomZ\DomZ15\obj\Debug\net6.0\ref\DomZ15.dll
